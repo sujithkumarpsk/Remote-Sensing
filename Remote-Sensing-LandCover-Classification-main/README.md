@@ -90,9 +90,4 @@ pip install -r requirements.txt
 
 Open `remote_sensing.ipynb`
 
-## Author
-
-Trinay Mitra  
-Computer Science Undergraduate  
-Machine Learning & Computer Vision Enthusiast
 
